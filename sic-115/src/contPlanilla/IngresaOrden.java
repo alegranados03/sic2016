@@ -111,7 +111,7 @@ public class IngresaOrden extends javax.swing.JFrame {
 
         jLabel3.setText("Numero de Orden:");
 
-        jLabel7.setText("Tipo de Pan:");
+        jLabel7.setText("Tipo de producto:");
 
         comboPan.setModel(new javax.swing.DefaultComboBoxModel(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
 
